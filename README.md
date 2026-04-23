@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola! 👋
+Mi nombre es Roberto Manuel Abelino, egresado de la carrera de Ingenieria en Sistemas Computacionales del [Instituto Tecnológico de Oaxaca](https://www.oaxaca.tecnm.mx) con especialidad en Tecnologías Emergentes.
 <!--
 **RobertoManuelAbelino/RobertoManuelAbelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
