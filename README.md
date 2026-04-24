@@ -24,7 +24,7 @@ He participado en algunos proyectos en mi experiencia como desarrollador jr:
 - [Salon del Conocimiento](https://salondelconocimiento.oaxaca.gob.mx) : El salon del conocimiento reconoce a las mujeres por su trayectoria científica a lo largo de su vida. El proyecto fue realizado en colaboracion con una compañera de diseño y otros compañeros programadores.
 
 ## Contactame
-[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-282C34?logo=linkedin-white&logoColor=blue" alt="LinkedIn logo" title="LinkedIn" width='100'/>](www.linkedin.com/in/roberto-manuel-abelino-ab7083337)
+[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-282C34?logo=linkedin-white&logoColor=blue" alt="LinkedIn logo" title="LinkedIn" width='100'/>](https://www.linkedin.com/in/roberto-manuel-abelino-ab7083337)
 
 <!--
 **RobertoManuelAbelino/RobertoManuelAbelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
