@@ -13,9 +13,11 @@ He trabajado con las siguientes tecnologías
 ![React](https://img.shields.io/badge/React-darkblue?logo=React)
 ![Vue](https://img.shields.io/badge/Vue-lightgreen?logo=vue.js)
 ![Flutter](https://img.shields.io/badge/Flutter-lightblue?logo=flutter)
+![PHP](https://img.shields.io/badge/PHP-lightblue?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-yellow?logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql)
 ![Git](https://img.shields.io/badge/git-green?logo=git)
 ![Github](https://img.shields.io/badge/GitHub-black?logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql)
 ## Proyectos destacados
 He participado en algunos proyectos en mi experiencia como desarrollador jr:
 
